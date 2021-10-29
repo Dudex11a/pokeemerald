@@ -1,4 +1,5 @@
 I've forked this repo to make minor alterations for my own use.
+
 Changes
 ---
 - Changed the Emerald Branden sprites with Seagull Cop.
