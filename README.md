@@ -1,6 +1,13 @@
-I've forked this repo to make minor personal alterations for my own use.
+I've forked this repo to make minor alterations for my own use.
+Changes
+---
+- Changed the Emerald Branden sprites with Seagull Cop.
 
+------------
 This rest of this is the original pokeemerald README.md ...
+
+------------
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
