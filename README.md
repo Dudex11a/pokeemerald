@@ -1,3 +1,6 @@
+I've forked this repo to make minor personal alterations for my own use.
+
+This rest of this is the original pokeemerald README.md ...
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
