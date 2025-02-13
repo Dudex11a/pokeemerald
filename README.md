@@ -4,7 +4,6 @@ Changes
 ---
 - Changed the Emerald Branden sprites with Seagull Cop.
 
-------------
 This rest of this is the original pokeemerald README.md ...
 
 ------------
